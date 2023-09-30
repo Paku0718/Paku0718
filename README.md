@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning React<br>🎯 Goals: Exploring full-stack development and building awesome web applications<br>🎲 Fun fact: I can solve a Rubik's Cube in under 5 minutes</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning React<br>🎯 Goals: Exploring full-stack development and building awesome web applications<br>🎲 Fun fact: I can solve a Rubik's Cube in under 4 minutes</p>
 
 ###
 
