@@ -67,7 +67,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Paku0718/count.svg?"  />
 </div>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Paku0718&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ###
